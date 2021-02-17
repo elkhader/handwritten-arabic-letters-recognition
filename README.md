@@ -1,11 +1,11 @@
 # Handwritten Arabic letters recognition
 
-Machine Learning based application to recognize Arabic letters. It used the classifier k-NN and the descriptor LBP. 
+Machine Learning Python application to recognize Arabic letters using the **classfier k-NN** and the **descriptor LBP**. 
 
 
-![alt text](./alif.gif) ![alt text](./ba.gif)
+![alt text](./others/prediction.gif)
 
 
 ### Contributors
- >**Fatiha HAMMA** (<a href="https://www.github.com/kevinarvai/05-bhayta">@05-byhata</a>)
+   **Fatiha HAMMA** (<a href="https://www.github.com/kevinarvai/05-bhayta">@05-byhata</a>)
 
