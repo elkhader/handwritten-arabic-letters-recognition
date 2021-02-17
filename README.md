@@ -9,7 +9,9 @@ The model was trained on the dataset <a href="https://www.kaggle.com/mloey1/ahcd
 
 
 <p align="center"><img src="/others/prediction.gif"></p>
+
 *This application was a part of a school assignment. Hence the reason why k-NN was specifically used.*
+
 ### Contributors
    **Fatiha HAMMA** (<a href="https://www.github.com/kevinarvai/05-bhayta">@05-byhata</a>)
 
