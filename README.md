@@ -17,7 +17,7 @@ A visual descriptor used for classification in computer vision. It's mainly used
 
 <p align="center"><img src="/others/prediction.gif"></p>
 
-*This application was a part of a school assignment where k-NN and LBP were specifically required. Hence the reason why they were used for this application.*
+*This application was a part of a school assignment where k-NN and LBP were specifically required. Hence the reason why they were used.*
 
 ### Contributors
    **Fatiha HAMMA** (<a href="https://www.github.com/05-bhayta">@05-byhata</a>)
