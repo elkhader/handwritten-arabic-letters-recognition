@@ -7,8 +7,7 @@ Machine Learning Python application to recognize Arabic letters using the **clas
 The model was trained on the dataset <a href="https://www.kaggle.com/mloey1/ahcd1"> Arabic Handwritten Characters Dataset</a>. It contains 16800 images of 32x32, each of a signle handwritten arabic letter. 
 
 ### k-nearest neighbors (k-NN)
-A supervised classification learning algorithm. It assigned classes to input values based on the distance calculated between them and the neighboring classes. 
-
+A supervised classification learning algorithm. It assigns the closest neighboring class to an input. 
 
 ### Local Binary Pattern (LBP)
 A visual descriptor used for classification in computer vision. It's mainly used for texture classification. We noticed, upon applying it on the handwritten pictures, an improvement in the accuracy of the k-NN model.
